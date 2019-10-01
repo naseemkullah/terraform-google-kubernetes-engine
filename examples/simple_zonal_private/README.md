@@ -1,4 +1,4 @@
-# Simple Regional Cluster
+# Simple Zonal Private Cluster
 
 This example illustrates how to create a simple private cluster.
 
